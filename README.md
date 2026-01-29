@@ -5,15 +5,8 @@ I am **Sushmoy**, a Full Stack Developer focused on building scalable, type-safe
 ---
 
 ### 🛠️ Core Capabilities
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=plastic&logo=graphql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=plastic&logo=fedora&logoColor=white)
 [![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,graphql,mongodb,tailwind,fedora)](https://skillicons.dev)
+
 ---
 
 ### 📈 Technical Roadmap: Full Stack Open
