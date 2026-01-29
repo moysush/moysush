@@ -1,6 +1,6 @@
 # Hello World! 👋 
 
-I'm **Sushmoy**, an enthusiastic Front-End Engineer focused on building clean, high-performance web solutions. I thrive in deep-work environments and am currently mastering the full stack through rigorous, project-based learning.
+I'm **Sushmoy**, an enthusiastic Full Stack Developer focused on building clean, high-performance web solutions. I thrive in deep-work environments and am currently mastering the full stack through rigorous, project-based learning.
 
 ---
 
