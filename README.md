@@ -13,7 +13,7 @@ I am **Sushmoy**, a Full Stack Developer focused on building scalable, type-safe
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=plastic&logo=fedora&logoColor=white)
-
+[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,graphql,mongodb,tailwind,fedora)](https://skillicons.dev)
 ---
 
 ### 📈 Technical Roadmap: Full Stack Open
