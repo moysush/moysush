@@ -1,40 +1,41 @@
-# Hello World! 👋 
+# Full Stack Engineer | Open for 2026 Remote Opportunities
 
-I'm **Sushmoy**, an enthusiastic Full Stack Developer focused on building clean, high-performance web solutions. I thrive in deep-work environments and am currently mastering the full stack through rigorous, project-based learning.
-
----
-
-### 🛠️ Tech Stack
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=white)
+I am **Sushmoy**, a Full Stack Developer focused on building scalable, type-safe web applications through disciplined **Deep Work** and modern engineering patterns. I specialize in bridging the gap between elegant front-end interfaces and robust back-end architectures.
 
 ---
 
-### 📈 Current Progress: Full Stack Open
-I am currently documenting my journey through the University of Helsinki's Full Stack Open curriculum.
+### 🛠️ Core Capabilities
 
-**Current Focus:** Part 8 — GraphQL & Apollo Server
-
-`Progress: [▓▓▓▓▓▓▓▓░░] 80%`
-
-* **Completed:** Parts 0–7 (Fundamentals, React, Redux, Node.js, Testing, CI/CD).
-* **Next Up:** TypeScript and Docker modules.
-
----
-
-### 🎯 2026 Objectives
-* **Building:** 3 "fine projects" to showcase architecture and problem-solving skills.
-* **Learning:** Deep diving into type-safe APIs and containerization.
-* **Career:** Securing a remote Front-End/Full-Stack role.
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat&logo=fedora&logoColor=white)
 
 ---
 
-### 📫 Connect with me
-* **Goal:** Remote IT Opportunities 2026.
-* **Operating System:** Fedora Linux (Atomic/KDE).
+### 📈 Technical Roadmap: Full Stack Open
+I am currently mastery-focused on the University of Helsinki's full-stack curriculum.
+
+**Current Milestone:** Part 8 — GraphQL & Apollo Server (Type-safe APIs)
+
+`Full Stack Mastery: [▓▓▓▓▓▓░░░░] 62%`
+
+* **Phase 1: Foundations (Parts 0–5)** — React, Node.js, Express, and Unit/E2E Testing.
+* **Phase 2: State & Routing (Parts 6–7)** — Redux, React Query, and React Router.
+* **Phase 3: Advanced Patterns (Parts 8–13)** — GraphQL, TypeScript, and Docker (In Progress).
+
+---
+
+### 🎯 2026 Impact Goals
+* **Building:** Delivering 3 "fine projects" that demonstrate full-stack proficiency and clean code.
+* **Collaborating:** Looking for a remote engineering team where I can apply my problem-solving skills to real-world challenges.
+
+---
+
+### 📫 Connect
+* **Dhaka, Bangladesh**
+* **m.hossain.sushmoy@gmail.com**
+* **Linux (KDE Plasma) Enthusiast**
