@@ -32,10 +32,3 @@ I am currently mastery-focused on the University of Helsinki's full-stack curric
 ### 🎯 2026 Impact Goals
 * **Building:** Delivering 3 "fine projects" that demonstrate full-stack proficiency and clean code.
 * **Collaborating:** Looking for a remote engineering team where I can apply my problem-solving skills to real-world challenges.
-
----
-
-### 📫 Connect
-* **Dhaka, Bangladesh**
-* **m.hossain.sushmoy@gmail.com**
-* **Linux (KDE Plasma) Enthusiast**
