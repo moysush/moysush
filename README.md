@@ -1,5 +1,8 @@
-### Hello World! 👋
+# Hello, World! 👋
 
-I'm an enthusiastic front-end engineer with expertise in .NET, React.js, Vue.js, Tailwind CSS, Git, and HTML/CSS. I'm committed to continuous learning and problem-solving. Let's connect and explore opportunities to create innovative web solutions together!
+## 🛠️ Core Tech Stack
+- Frontend: React.js, Vue.js, Tailwind CSS, HTML5/CSS3.
+- Backend & Databases: GraphQL (Apollo), .NET, Node.js, MongoDB.
+- Tools: Git, Linux (Fedora Atomic), Neovim/VS Code.
 
 
