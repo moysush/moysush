@@ -16,9 +16,9 @@ I am currently mastery-focused on the University of Helsinki's full-stack curric
 
 [![fullStackOpen](https://wakatime.com/badge/user/86f132d3-54fc-4604-939b-ed564a36d178/project/9a472be4-569c-4bd3-9daa-7fd64785b624.svg)](https://wakatime.com/badge/user/86f132d3-54fc-4604-939b-ed564a36d178/project/9a472be4-569c-4bd3-9daa-7fd64785b624)
 
-* **Phase 1: Foundations (Parts 0–5)** — React, Node.js, Express, and Unit/E2E Testing.
-* **Phase 2: State & Routing (Parts 6–7)** — Redux, React Query, and React Router.
-* **Phase 3: Advanced Patterns (Parts 8–13)** — GraphQL, TypeScript, and Docker (In Progress).
+* **Phase 1: Foundations (Parts 0–5)** — ~~React, Node.js, Express, and Unit/E2E Testing~~.
+* **Phase 2: State & Routing (Parts 6–7)** — ~~Redux, React Query, and React Router~~.
+* **Phase 3: Advanced Patterns (Parts 8–13)** — ~~GraphQL~~, TypeScript, React Native, and Docker (In Progress).
 
 ---
 
