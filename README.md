@@ -12,11 +12,9 @@ I am **Sushmoy**, a Full Stack Developer focused on building scalable, type-safe
 ### 📈 Technical Roadmap: Full Stack Open
 I am currently mastery-focused on the University of Helsinki's full-stack curriculum.
 
-**Current Milestone:** Part 8 — GraphQL & Apollo Server (Type-safe APIs)
+**Current Milestone:** Part 9 — TypeScript
 
 [![fullStackOpen](https://wakatime.com/badge/user/86f132d3-54fc-4604-939b-ed564a36d178/project/9a472be4-569c-4bd3-9daa-7fd64785b624.svg)](https://wakatime.com/badge/user/86f132d3-54fc-4604-939b-ed564a36d178/project/9a472be4-569c-4bd3-9daa-7fd64785b624)
-
-`Full Stack Mastery: [▓▓▓▓▓▓░░░░] 62%`
 
 * **Phase 1: Foundations (Parts 0–5)** — React, Node.js, Express, and Unit/E2E Testing.
 * **Phase 2: State & Routing (Parts 6–7)** — Redux, React Query, and React Router.
