@@ -1,6 +1,4 @@
-# Hi, I'm Mahmud Hossain Sushmoy 👋
-
-### Full Stack Software Engineer 
+# Hi, I'm Mahmud 👋
 
 I specialize in building clean, stable applications from the database layer all the way up to the mobile UI. With a strong foundation in modern JavaScript/TypeScript ecosystems and a preference for working in stable Linux environments (Debian), I focus on engineering maintainable, scalable software.
 
@@ -39,9 +37,3 @@ I specialize in building clean, stable applications from the database layer all 
 - **Full Stack Web & Mobile Development** — *University of Helsinki (2026)*
   - *Rigorous, university-backed training in React Native, GraphQL APIs, TypeScript, and the MERN stack.*
 
----
-
-## 📫 Let's Connect
-
-- **LinkedIn:** [linkedin.com/in/sushmoy](https://linkedin.com/in/sushmoy)
-- **Email:** m.hossain.sushmoy@gmail.com
