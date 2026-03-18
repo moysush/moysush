@@ -18,7 +18,7 @@ I am currently mastery-focused on the University of Helsinki's full-stack curric
 
 * **Phase 1: Foundations (Parts 0–5)** — ~~React, Node.js, Express, and Unit/E2E Testing~~.
 * **Phase 2: State & Routing (Parts 6–7)** — ~~Redux, React Query, and React Router~~.
-* **Phase 3: Advanced Patterns (Parts 8–13)** — ~~GraphQL~~, TypeScript, React Native, and Docker (In Progress).
+* **Phase 3: Advanced Patterns (Parts 8–13)** — ~~GraphQL~~, ~~TypeScript~~, ~~React Native~~, and Docker (In Progress).
 
 ---
 
