@@ -5,7 +5,7 @@ I am **Sushmoy**, a Full Stack Developer focused on building scalable, type-safe
 ---
 
 ### 🛠️ Core Capabilities
-[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,graphql,mongodb,tailwind,vscode,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,react,nodejs,graphql,mongodb,tailwind,vscode,linux)](https://skillicons.dev)
 
 ---
 
