@@ -1,27 +1,47 @@
-# Full Stack Engineer | Open for 2026 Remote Opportunities
+# Hi, I'm Mahmud Hossain Sushmoy 👋
 
-I am **Sushmoy**, a Full Stack Developer focused on building scalable, type-safe web applications through disciplined **Deep Work** and modern engineering patterns. I specialize in bridging the gap between elegant front-end interfaces and robust back-end architectures.
+### Full Stack Software Engineer 
 
----
+I specialize in building clean, stable applications from the database layer all the way up to the mobile UI. With a strong foundation in modern JavaScript/TypeScript ecosystems and a preference for working in stable Linux environments (Debian), I focus on engineering maintainable, scalable software.
 
-### 🛠️ Core Capabilities
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,react,nodejs,graphql,mongodb,tailwind,vscode,linux)](https://skillicons.dev)
+## 🛠️ Tech Stack & Environment
 
----
-
-### 📈 Technical Roadmap: Full Stack Open
-I am currently mastery-focused on the University of Helsinki's full-stack curriculum.
-
-**Current Milestone:** Part 9 — TypeScript
-
-[![fullStackOpen](https://wakatime.com/badge/user/86f132d3-54fc-4604-939b-ed564a36d178/project/9a472be4-569c-4bd3-9daa-7fd64785b624.svg)](https://wakatime.com/badge/user/86f132d3-54fc-4604-939b-ed564a36d178/project/9a472be4-569c-4bd3-9daa-7fd64785b624)
-
-* **Phase 1: Foundations (Parts 0–5)** — ~~React, Node.js, Express, and Unit/E2E Testing~~.
-* **Phase 2: State & Routing (Parts 6–7)** — ~~Redux, React Query, and React Router~~.
-* **Phase 3: Advanced Patterns (Parts 8–13)** — ~~GraphQL~~, ~~TypeScript~~, ~~React Native~~, and Docker (In Progress).
+- **Frontend & Mobile:** React.js, React Native, TypeScript, JavaScript, Tailwind CSS, Material UI, HTML5, CSS3
+- **Backend & Data:** Node.js, Express.js, GraphQL, Apollo, MongoDB, REST APIs
+- **Tools & Architecture:** Git, GitHub, Linux, Jest
 
 ---
 
-### 🎯 2026 Impact Goals
-* **Building:** Delivering 3 "fine projects" that demonstrate full-stack proficiency and clean code.
-* **Collaborating:** Looking for a remote engineering team where I can apply my problem-solving skills to real-world challenges.
+## 🚀 Featured Engineering Projects
+
+### 📱 Rate Repository App
+**Tech:** *React Native, Expo, Apollo GraphQL, JavaScript*
+- Engineered a cross-platform mobile application with a highly responsive user interface.
+- Integrated Apollo Client with a GraphQL API to handle complex global state management, token-based authentication, and infinite scrolling.
+- Designed a stable frontend architecture capable of securely fetching and organizing large external datasets.
+
+### 🏥 Patientor
+**Tech:** *TypeScript, React, Node.js, Express*
+- Built a robust, full-stack medical record system utilizing strict TypeScript typing across both the frontend and backend to ensure maximum code stability.
+- Designed a RESTful API to securely manage and validate complex patient data inputs.
+- Engineered a modular React frontend utilizing specialized utility types to maintain strict data integrity.
+
+### 📝 Bloglist
+**Tech:** *React, Node.js, Express, MongoDB, Jest*
+- Developed a complete, scalable content management application with secure, token-based JWT authentication.
+- Authored comprehensive backend unit and integration tests using Jest to guarantee API reliability and database integrity prior to deployment.
+
+---
+
+## 🎓 Education & Certifications
+
+- **BS in Computer Science** — *University of the People (Expected 2027)*
+- **Full Stack Web & Mobile Development** — *University of Helsinki (2026)*
+  - *Rigorous, university-backed training in React Native, GraphQL APIs, TypeScript, and the MERN stack.*
+
+---
+
+## 📫 Let's Connect
+
+- **LinkedIn:** [linkedin.com/in/sushmoy](https://linkedin.com/in/sushmoy)
+- **Email:** m.hossain.sushmoy@gmail.com
