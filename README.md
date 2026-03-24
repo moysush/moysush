@@ -1,39 +1,47 @@
 # Hi, I'm Mahmud 👋
 
-I specialize in building clean, stable applications from the database layer all the way up to the mobile UI. With a strong foundation in modern JavaScript/TypeScript ecosystems and a preference for working in stable Linux environments (Debian), I focus on engineering maintainable, scalable software.
+I specialize in building clean, stable applications from the database layer all the way up to the mobile UI. With a strong foundation in modern JavaScript/TypeScript ecosystems, I focus on engineering maintainable, scalable software.
 
-## 🛠️ Tech Stack & Environment
+## 🛠️ SKILLS
 
-- **Frontend & Mobile:** React.js, React Native, TypeScript, JavaScript, Tailwind CSS, Material UI, HTML5, CSS3
-- **Backend & Data:** Node.js, Express.js, GraphQL, Apollo, MongoDB, REST APIs
-- **Tools & Architecture:** Git, GitHub, Linux, Jest
+- FRONTEND: React Native, React.js, TypeScript, JavaScript, Tailwind CSS, Material UI, HTML5,
+CSS3
+- BACKEND: Node.js, Express.js, GraphQL, Apollo, MongoDB, REST APIs
+- TOOLS & ENVIRONMENT: Git, GitHub, Jest, Linux
 
 ---
 
-## 🚀 Featured Engineering Projects
+## 🚀 PROJECTS
 
 ### 📱 Rate Repository App
 **Tech:** *React Native, Expo, Apollo GraphQL, JavaScript*
-- Engineered a cross-platform mobile application with a highly responsive user interface.
-- Integrated Apollo Client with a GraphQL API to handle complex global state management, token-based authentication, and infinite scrolling.
-- Designed a stable frontend architecture capable of securely fetching and organizing large external datasets.
+- Architected a cross-platform mobile application using React Native and Expo, delivering a
+seamless and highly responsive user interface.
+- Integrated Apollo Client with a GraphQL API to execute complex global state management,
+secure token-based authentication, and performant inﬁnite scrolling.
+- Engineered a scalable frontend architecture capable of dynamically fetching, caching, and
+organizing large datasets from external REST endpoints.
 
 ### 🏥 Patientor
 **Tech:** *TypeScript, React, Node.js, Express*
-- Built a robust, full-stack medical record system utilizing strict TypeScript typing across both the frontend and backend to ensure maximum code stability.
-- Designed a RESTful API to securely manage and validate complex patient data inputs.
-- Engineered a modular React frontend utilizing specialized utility types to maintain strict data integrity.
+- Developed a full-stack medical record application, enforcing strict TypeScript typing across the frontend and backend to eliminate runtime errors and ensure codebase stability.
+- Designed and deployed a RESTful API using Node.js and Express to securely process, validate, and manage complex patient data payloads.
+- Constructed a modular React frontend leveraging advanced TypeScript utility types to
+guarantee strict data integrity and type safety across all UI components.
 
 ### 📝 Bloglist
 **Tech:** *React, Node.js, Express, MongoDB, Jest*
-- Developed a complete, scalable content management application with secure, token-based JWT authentication.
-- Authored comprehensive backend unit and integration tests using Jest to guarantee API reliability and database integrity prior to deployment.
+- Spearheaded the development of a scalable content management application, combining a
+React frontend with a high-performance Node.js/Express backend.
+- Implemented secure, token-based JWT authentication and bcrypt-encrypted user credential
+storage to protect sensitive data.
+- Authored comprehensive unit and integration tests using Jest, achieving high test coverage to guarantee API reliability and database integrity prior to deployment.
 
 ---
 
-## 🎓 Education & Certifications
+## 🎓 EDUCATION & CERTIFICATIONS
 
-- **BS in Computer Science** — *University of the People (Expected 2027)*
-- **Full Stack Web & Mobile Development** — *University of Helsinki (2026)*
-  - *Rigorous, university-backed training in React Native, GraphQL APIs, TypeScript, and the MERN stack.*
+- **Bachelor of Science in Computer Science** — *University of the People (Expected 2027)*
+- **Full Stack Open (MERN Stack, React Native, TypeScript, GraphQL)** — *University of Helsinki (2026)*
+  - *[View Credential](https://studies.cs.helsinki.ﬁ/stats/api/certiﬁcate/fullstackopen/en/6531338dfb2aa9a11da2980d8036417e)*
 
