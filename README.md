@@ -43,5 +43,5 @@ storage to protect sensitive data.
 
 - **Bachelor of Science in Computer Science** — *University of the People (Expected 2027)*
 - **Full Stack Open (MERN Stack, React Native, TypeScript, GraphQL)** — *University of Helsinki (2026)*
-  - *[View Credential](https://studies.cs.helsinki.ﬁ/stats/api/certiﬁcate/fullstackopen/en/6531338dfb2aa9a11da2980d8036417e)*
+  - [View Credential](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/6531338dfb2aa9a11da2980d8036417e)
 
