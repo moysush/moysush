@@ -13,7 +13,7 @@ CSS3
 
 ## 🚀 PROJECTS
 
-### 📱 Rate Repository App
+### 📱 [Rate Repository App](https://github.com/moysush/rate-repository-app)
 **Tech:** *React Native, Expo, Apollo GraphQL, JavaScript*
 - Architected a cross-platform mobile application using React Native and Expo, delivering a
 seamless and highly responsive user interface.
