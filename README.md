@@ -22,14 +22,14 @@ secure token-based authentication, and performant inﬁnite scrolling.
 - Engineered a scalable frontend architecture capable of dynamically fetching, caching, and
 organizing large datasets from external REST endpoints.
 
-### 🏥 Patientor
+### 🏥 [Patientor](https://github.com/moysush/patientor)
 **Tech:** *TypeScript, React, Node.js, Express*
 - Developed a full-stack medical record application, enforcing strict TypeScript typing across the frontend and backend to eliminate runtime errors and ensure codebase stability.
 - Designed and deployed a RESTful API using Node.js and Express to securely process, validate, and manage complex patient data payloads.
 - Constructed a modular React frontend leveraging advanced TypeScript utility types to
 guarantee strict data integrity and type safety across all UI components.
 
-### 📝 Bloglist
+### 📝 [Bloglist](https://github.com/moysush/bloglist)
 **Tech:** *React, Node.js, Express, MongoDB, Jest*
 - Spearheaded the development of a scalable content management application, combining a
 React frontend with a high-performance Node.js/Express backend.
