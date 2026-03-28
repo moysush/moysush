@@ -1,6 +1,6 @@
 # Hi, I'm Mahmud 👋
 
-I specialize in building clean, stable applications from the database layer all the way up to the mobile UI. With a strong foundation in modern JavaScript/TypeScript ecosystems, I focus on engineering maintainable, scalable software.
+I build clean interfaces, scalable backends, and cross-platform applications using Node.js, TypeScript, React, and React Native. 
 
 ## 🛠️ SKILLS
 
