@@ -8,7 +8,7 @@ Remote-focused full-stack engineer specializing in React Native mobile developme
 
 * **FRONTEND:** React Native, React.js, TypeScript, JavaScript, Redux, React Query, Apollo Client, Tailwind CSS
 * **BACKEND:** Node.js, Express.js, GraphQL, REST APIs, MongoDB, Mongoose, JWT, bcrypt
-* **TOOLS & ENVIRONMENT:** Git, GitHub, Jest, Vitest, Vercel, Railway, React Testing Library, Cloudflare Pages, Linux
+* **TOOLS & ENVIRONMENT:** Git, GitHub Actions (CI/CD), Jest, Vitest, Vercel, Railway, React Testing Library, Cloudflare Pages, Linux
 
 ## 🎓 EDUCATION & CERTIFICATIONS
 
