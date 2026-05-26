@@ -1,16 +1,15 @@
 # Hi, I'm Mahmud 👋
 
-Remote-focused full-stack engineer specializing in React Native mobile development and TypeScript web applications. Builds production-ready applications with strict type safety (zero-any policy), efficient data fetching, and scalable state management.
-
 [📄 View My Resume](https://rxresu.me/sushmoy/mahmud-hossain-sushmoy-resume)
 
 ## 🛠️ SKILLS
 
-* **FRONTEND:** React Native, React.js, TypeScript, JavaScript, Redux, React Query, Apollo Client, Tailwind CSS
-* **BACKEND:** Node.js, Express.js, GraphQL, REST APIs, MongoDB, Mongoose, JWT, bcrypt
-* **TOOLS & ENVIRONMENT:** Git, GitHub Actions (CI/CD), Jest, Vitest, Vercel, Railway, React Testing Library, Cloudflare Pages, Linux
+* **Frontend:** TypeScript, JavaScript, React.js, React Native (Expo), Redux, React Query, Apollo Client, Tailwind CSS, CSS, HTML
+* **Backend:** Node.js, Express.js, GraphQL, REST APIs, PostgreSQL (Sequelize), MongoDB (Mongoose), JWT
+* **DevOps:** Docker / Podman (OCI standards), Docker Compose, Nginx, CI/CD (GitHub Actions)
+* **Testing & Tools:** Git, Jest / Vitest, React Testing Library, Playwright, Postman
 
 ## 🎓 EDUCATION & CERTIFICATIONS
 
-* **Bachelor of Science in Computer Science** — University of the People (Expected 2027)
-* **Full Stack Open** (MERN Stack, React Native, TypeScript, GraphQL) — University of Helsinki (2026)
+* **Bachelor of Science in Computer Science** — University of the People | Sep 2022 - Oct 2026 (Expected)
+* **Full Stack Open:** MERN Stack, React Native, TypeScript, GraphQL, CI/CD, Docker, PostgreSQL — University of Helsinki | Apr 2025 - Jun 2026
