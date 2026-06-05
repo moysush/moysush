@@ -14,4 +14,4 @@
 * **Bachelor of Science in Computer Science** — University of the People | Sep 2022 - Oct 2026 (Expected)
 * **Full Stack Open:** MERN Stack, React Native, TypeScript, GraphQL, CI/CD, Docker, PostgreSQL — University of Helsinki | Apr 2025 - Jun 2026
 
-<figure><embed src="https://wakatime.com/share/@86f132d3-54fc-4604-939b-ed564a36d178/9f5aa469-67f3-4eb1-9d1d-52f5370ab7a5.svg"></embed></figure>
+![WakaTime Stats](https://wakatime.com/share/@86f132d3-54fc-4604-939b-ed564a36d178/9f5aa469-67f3-4eb1-9d1d-52f5370ab7a5.svg)
