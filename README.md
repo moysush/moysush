@@ -1,17 +1,24 @@
 # Hi, I'm Mahmud 👋
 
-[📄 View My Resume](https://rxresu.me/sushmoy/mahmud-hossain-sushmoy-resume)
+**Full Stack Engineer** building clean, stable, and scalable applications.
 
-## 🛠️ SKILLS
+## </> Core Stack
 
-* **Frontend:** TypeScript, JavaScript, React.js, React Native (Expo), Redux, React Query, Apollo Client, Tailwind CSS, CSS, HTML
-* **Backend:** Node.js, Express.js, GraphQL, REST APIs, PostgreSQL (Sequelize), MongoDB (Mongoose), JWT
-* **DevOps:** Docker / Podman (OCI standards), Docker Compose, Nginx, CI/CD (GitHub Actions)
-* **Testing & Tools:** Git, Jest / Vitest, React Testing Library, Playwright, Postman
+<p>
+  <img src="https://thesvg.org/icons/typescript/default.svg" width="32" title="TypeScript" alt="TypeScript" />
+  <img src="https://thesvg.org/icons/javascript/default.svg" width="32" title="JavaScript" alt="JavaScript" />
+  <img src="https://thesvg.org/icons/nodejs/default.svg" width="32" title="Node.js" alt="Node.js" />
+  
+  <img src="https://thesvg.org/icons/react/default.svg" width="32" title="React" alt="React" />
+  <img src="https://thesvg.org/icons/nextjs/default.svg" width="32" title="Next.js" alt="Next.js" />
+  <img src="https://thesvg.org/icons/tailwindcss/default.svg" width="32" title="Tailwind CSS" alt="Tailwind CSS" />
+  
+  <img src="https://thesvg.org/icons/graphql/default.svg" width="32" title="GraphQL" alt="GraphQL" />
+  <img src="https://thesvg.org/icons/mongodb/default.svg" width="32" title="MongoDB" alt="MongoDB" />
+  <img src="https://thesvg.org/icons/postgresql/default.svg" width="32" title="PostgreSQL" alt="PostgreSQL" />
 
-## 🎓 EDUCATION & CERTIFICATIONS
-
-* **Bachelor of Science in Computer Science** — University of the People | Sep 2022 - Oct 2026 (Expected)
-* **Full Stack Open:** MERN Stack, React Native, TypeScript, GraphQL, CI/CD, Docker, PostgreSQL — University of Helsinki | Apr 2025 - Jun 2026
+  <img src="https://thesvg.org/icons/docker/default.svg" width="32" title="Docker" alt="Docker" />
+  <img src="https://thesvg.org/icons/githubactions/default.svg" width="32" title="GitHub Actions" alt="GitHub Actions" />
+</p>
 
 ![WakaTime Stats](https://wakatime.com/share/@86f132d3-54fc-4604-939b-ed564a36d178/9f5aa469-67f3-4eb1-9d1d-52f5370ab7a5.svg)
