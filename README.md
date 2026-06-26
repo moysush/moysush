@@ -20,5 +20,3 @@
   <img src="https://thesvg.org/icons/docker/default.svg" width="32" height="32" title="Docker" alt="Docker" />
   <img src="https://thesvg.org/icons/github-actions/default.svg" width="32" height="32" title="GitHub Actions" alt="GitHub Actions" />
 </p>
-
-`![WakaTime Stats](https://wakatime.com/share/@86f132d3-54fc-4604-939b-ed564a36d178/9f5aa469-67f3-4eb1-9d1d-52f5370ab7a5.svg)`
