@@ -7,7 +7,7 @@
 <p>
   <img src="https://thesvg.org/icons/typescript/default.svg" width="32" height="32" title="TypeScript" alt="TypeScript" />
   <img src="https://thesvg.org/icons/javascript/default.svg" width="32" height="32" title="JavaScript" alt="JavaScript" />
-  <img src="https://thesvg.org/icons/nodedotjs/default.svg" width="32" title="Node.js" alt="Node.js" />
+  <img src="https://thesvg.org/icons/nodedotjs/default.svg" width="32" height="32" title="Node.js" alt="Node.js" />
   
   <img src="https://thesvg.org/icons/react/default.svg" width="32" height="32" title="React" alt="React" />
   <img src="https://thesvg.org/icons/nextdotjs/default.svg" width="32" height="32" title="Next.js" alt="Next.js" />
