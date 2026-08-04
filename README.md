@@ -5,18 +5,6 @@ Full-stack engineer. TypeScript end-to-end, zero `any`.
 I build accessible, production-grade web apps and ship them with Docker —
 currently sharpening my edge at **SoftSelify** as a frontend intern.
 
-**Featured work**
-
-- **[MediSync EHR](https://medisync-ehr.vercel.app/)** — full-stack EHR with
-  end-to-end type safety; trimmed the backend container **1.3GB → 191MB**
-  with multi-stage Docker.
-- **[NextBlog](https://next-blogapp-psi.vercel.app/)** — server-rendered blog
-  platform (Next.js App Router, Auth.js, PostgreSQL, Drizzle ORM).
-- **[LuminaEats](https://luminaeats.vercel.app/)** — food ordering platform with
-  role-based admin, real-time order tracking, PayHere checkout.
-- **[Rate Repository](https://github.com/moysush/rate-repository-app)** — React
-  Native + Apollo GraphQL app that cut network requests by **60%**.
-
 **Stack**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -36,5 +24,3 @@ currently sharpening my edge at **SoftSelify** as a frontend intern.
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-
-[Email](mailto:is.sushmoy@gmail.com) · [LinkedIn](https://linkedin.com/in/sushmoy) · [Portfolio](https://sushmoy.pages.dev)
