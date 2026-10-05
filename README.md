@@ -24,3 +24,5 @@ currently sharpening my edge at **SoftSelify** as a frontend intern.
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+
+![icon-marquee](https://icon-marquee.giann.dev/v1/marquee?i=js,ts,react,docker,go,rust)
