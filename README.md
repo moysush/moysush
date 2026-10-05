@@ -6,7 +6,7 @@ I build accessible, production-grade web apps and ship them with Docker —
 currently sharpening my edge at **SoftSelify** as a frontend intern.
 
 **Stack**
-
+<!--
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
@@ -24,5 +24,6 @@ currently sharpening my edge at **SoftSelify** as a frontend intern.
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+-->
 
-![icon-marquee](https://icon-marquee.giann.dev/v1/marquee?i=ts,js,react,next,reactnative,node,express,graphql,postgresql,mongodb,docker,githubactions,nginx,git,linux,opencode,antigravity)
+![icon-marquee](https://icon-marquee.giann.dev/v1/marquee?i=ts,js,react,next,reactnative,node,express,graphql,postgresql,mongodb,docker,githubactions,nginx,git,linux,fedora,opencode,antigravity&width=800)
