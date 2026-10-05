@@ -21,4 +21,4 @@ Full-stack engineer specializing in building web and mobile software with Next.j
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 -->
 
-![icon-marquee](https://icon-marquee.giann.dev/v1/marquee?i=ts,react,next,reactnative,tailwindcss,shadcn,node,express,restapi,graphql,zod,zustand,postgresql,mongodb,docker,githubactions,nginx,git,linux,fedora,opencode,antigravity&width=800)
+![icon-marquee](https://icon-marquee.giann.dev/v1/marquee?i=ts,react,next,reactnative,tailwindcss,node,express,graphql,postgresql,mongodb,docker,githubactions,linux,opencode,antigravity&width=800)
