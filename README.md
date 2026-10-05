@@ -1,9 +1,4 @@
-### Hi, I'm Mahmud 👋
-
-Full-stack engineer. TypeScript end-to-end, zero `any`.
-
-I build accessible, production-grade web apps and ship them with Docker —
-currently sharpening my edge at **SoftSelify** as a frontend intern.
+Full-stack engineer specializing in building web and mobile software with Next.js and React Native.
 
 **Stack**
 <!--
